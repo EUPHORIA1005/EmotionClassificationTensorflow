@@ -1,0 +1,3 @@
+Name:Person_35;Age:31;Gender:female;Ethnicity:Saudi Arabia;Primary Language:Arabic
+Video index;Video start time;Video name;Video end time
+47;1583452940.5677779;Fear001055020.mp4;1583452948.6585808
