@@ -80,8 +80,8 @@ def preprocess_data(dataPath, train):
 
 
 def main():
-    preprocess_data('PAFEW', train=1)
-    preprocess_data('PAFEW', train=0)
+    preprocess_data('', train=1)
+    preprocess_data('', train=0)
 
 if __name__ == '__main__':
     main()
